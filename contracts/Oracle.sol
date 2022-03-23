@@ -32,7 +32,7 @@ contract Oracle {
             uint256 payload
         )
     {
-        if (data[key].data == 0) {
+        if (data[key].date == 0) {
             return (false, 0, 0);
         }
 
