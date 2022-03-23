@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/deanamiel/oracle/issues"
   },
-  "homepage": "https://github.com/deanamiel/oracle#readme"
+  "homepage": "https://github.com/deanamiel/oracle#readme",
+  "dependencies": {
+    "coingecko-api": "^1.0.10"
+  }
 }
